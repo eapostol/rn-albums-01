@@ -1,6 +1,7 @@
 {
   "name": "rn_albums_01",
   "version": "0.0.1",
+  "author": "Edward Apostol",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
